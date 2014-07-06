@@ -1,11 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+我是普通软件工程师，主要从事linux平台的后台程序开发工作，主要语言是c++和java。平时关注新技术的发展，同时也喜欢品味有积淀的技术。
