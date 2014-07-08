@@ -1,24 +1,16 @@
 ﻿# Global settings
 timezone: Asia/Shanghai
+
 # Site settings
-
 title: 韦仕硕的博客
-
 email: weishishuo329@gmail.com
 description: "好记性不如烂笔头"
-
 baseurl: ""
-
 url: "http://weishishuo.github.io"
-
-twitter_username: jekyllrb
-
-github_username:  jekyll
-
+#twitter_username: jekyllrb
+github_username:  weishishuo
 
 # Build settings
-
 markdown: kramdown
 # markdown: rdiscount
-
 permalink: pretty
